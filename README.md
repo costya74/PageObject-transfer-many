@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ila7k9n6do3wxvi7?svg=true)](https://ci.appveyor.com/project/costya74/pageobject-transfer-many)

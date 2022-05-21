@@ -21,7 +21,7 @@ public class DataHelper {  // помощник данных
         private String code;
     }
 
-    public static VerificationCcode getVerificationCcode(AuthInfo authInfo) {
+    public static VerificationCcode getVerificationCode(AuthInfo authInfo) {
         return new VerificationCcode("12345");
     }
 
